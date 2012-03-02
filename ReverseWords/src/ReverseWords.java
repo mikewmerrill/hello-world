@@ -32,5 +32,6 @@ public class ReverseWords {
 		print(args);
 		print(reverse(args));
 		System.out.println(reverse("The    cat is out of the bag"));
+		System.out.println(reverse("Another test string"));
 	}
 }
